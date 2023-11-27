@@ -60,8 +60,8 @@ If you're familiar with using a terminal, the following commands can help you ge
 ```sh
 apt update && apt upgrade -y  # Update system packages
 apt install git cmake make sudo -y  # Install necessary packages for building
-git clone https://github.com/shanhaicoder/XENGPUMiner.git  # Clone the repository
-cd XENGPUMiner  # Navigate to the project directory
+git clone https://github.com/dirrrtyjesus/dirtybear  # Clone the repository
+cd dirtybear  # Navigate to the project directory
 chmod +x build.sh  # Make the build script executable
 sudo apt install ocl-icd-opencl-dev  # Install OpenCL development package
 ./build.sh  # Run the build script
@@ -91,8 +91,8 @@ To build from the source, follow the steps below. Please make sure you have `git
 
 Now, proceed with the following steps to clone the repository and build the project:
 ``` bash
-git clone https://github.com/shanhaicoder/XENGPUMiner.git 
-cd XENGPUMiner
+git clone https://github.com/dirrrtyjesus/dirtybear.git 
+cd dirtybear
 chmod +x build.sh
 ```
 
